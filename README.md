@@ -1,7 +1,6 @@
 I'm monomadic.
 
-[![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic)](https://github.com/anuraghazra/github-readme-stats)
-[![monomadic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monomadic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm totally into
 - technical minimalism
@@ -27,3 +26,5 @@ I work remotely on anything fun and accept monero or bitcoin. Please get in cont
 - Elm
 
 I also kinda like c, flutter, golang and haskell.
+
+[![monomadic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monomadic&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
