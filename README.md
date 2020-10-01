@@ -23,4 +23,4 @@ I work remotely on anything fun and accept monero or bitcoin. Please get in cont
 - Rust
 - Elm
 
-I also kinda like flutter, golang and haskell.
+I also kinda like c, flutter, golang and haskell.
