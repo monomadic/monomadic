@@ -1,5 +1,7 @@
 I'm monomadic.
 
+(https://github-readme-stats.vercel.app/api?username=monomadic)
+
 ## I'm totally into
 - technical minimalism
 - music and generative graphics
