@@ -23,4 +23,4 @@ _Note: Predelictions are not in order._
 I also kinda like flutter, golang and haskell.
 
 # I'm looking for work!
-I work remotely on anything fun and accept monero or bitcoin. Please get in [contact](mailto:deathdisco@protonmail.com) if you have a project in mind.
+I work remotely on anything fun and accept monero or bitcoin. Please get in contact if you have a project in mind. (telegram: @deathdisco)
