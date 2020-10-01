@@ -1,6 +1,7 @@
 I'm monomadic.
 
-!(https://github-readme-stats.vercel.app/api?username=monomadic)
+[![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic)](https://github.com/anuraghazra/github-readme-stats)
+[![monomadic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monomadic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm totally into
 - technical minimalism
