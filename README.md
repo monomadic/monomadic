@@ -1,8 +1,19 @@
-# HELLO
-
 I'm monomadic.
 
-I'm totally into technical minimalism, music and generative graphics, blockchain and decentralisation, nomadding, low level ui, functional programming, psychedelia, macroeconomic activism, reverse engineering and cracking, pessimistic philosophy, and mentos. Predelictions are not in order.
+## I'm totally into
+- technical minimalism
+- music and generative graphics
+- blockchain and decentralisation
+- nomadding
+- low level ui
+- functional programming
+- psychedelia
+- macroeconomic activism
+- reverse engineering and cracking
+- pessimistic philosophy
+- mentos, the freshmaker
+
+Predelictions are not in order.
 
 ## My technologies of choice are:
 - NixOS
