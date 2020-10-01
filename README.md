@@ -15,12 +15,12 @@ I'm monomadic.
 
 _Note: Predelictions are not in order._
 
+# I'm looking for work!
+I work remotely on anything fun and accept monero or bitcoin. Please get in contact if you have a project in mind. (telegram: @deathdisco)
+
 ## My technologies of choice are:
 - NixOS
 - Rust
 - Elm
 
 I also kinda like flutter, golang and haskell.
-
-# I'm looking for work!
-I work remotely on anything fun and accept monero or bitcoin. Please get in contact if you have a project in mind. (telegram: @deathdisco)
