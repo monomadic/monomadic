@@ -1,6 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/129359?s=460&u=d64ec2258877e4f0dd411a352b31b14aca2d77c4&v=4">
-
-# Hello.
+# HELLO.
 
 I'm monomadic.
 
