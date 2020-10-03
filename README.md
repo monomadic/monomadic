@@ -1,7 +1,3 @@
-I'm monomadic.
-
-[![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I'm totally into
 `technical minimalism` `music and generative graphics` `blockchain and decentralisation` `nomad lyfe` `low level ui frameworks` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering and cracking` `pessimistic philosophy` `mentos, the freshmaker`
 
@@ -17,4 +13,5 @@ I work remotely on anything fun and accept monero or bitcoin. Please get in [con
 
 I also kinda like c, flutter, golang and haskell.
 
-[![monomadic's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monomadic&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+
