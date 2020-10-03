@@ -3,16 +3,7 @@ I'm monomadic.
 [![monomadic's github stats](https://github-readme-stats.vercel.app/api?username=monomadic&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm totally into
-`technical minimalism` `music and generative graphics`
-- blockchain and decentralisation
-- nomadding
-- low level ui
-- functional programming
-- psychedelia
-- macroeconomic activism
-- reverse engineering and cracking
-- pessimistic philosophy
-- mentos, the freshmaker
+`technical minimalism` `music and generative graphics` `blockchain and decentralisation` `nomad lyfe` `low level ui frameworks` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering and cracking` `pessimistic philosophy` `mentos, the freshmaker`
 
 _Note: Predelictions are not in order._
 
