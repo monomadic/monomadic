@@ -1,7 +1,7 @@
 `technical minimalism` `music and generative graphics` `blockchain and decentralisation` `nomad lyfe` `low level ui frameworks` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering and cracking` `mentos`
 
 # Hire Me
-I work remotely on anything fun and accept crypto. Please get in contact if you have a project in mind. I'm mostly on telegram: (telegram: @deathdisco)
+I work remotely on anything fun and accept crypto. Please get in contact if you have a project in mind. I'm mostly on telegram at @deathdisco
 
 ## Skillset
 - Rust
