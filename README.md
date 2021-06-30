@@ -1,12 +1,13 @@
 `technical minimalism` `music and generative graphics` `blockchain and decentralisation` `nomad lyfe` `low level ui frameworks` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering and cracking` `mentos`
 
-## Skillset
+## 💖
 - Rust
 - Blockchain (polkadot, solidity, etc)
 - NixOS
-- Elm, Svelte
-- Reverse Engineering
-- Audio
+- Deno, Elm, Svelte
+- Low-level GUI Programming
+- Generative Graphics
+- Audio (rustdsp)
 
 I also like c, flutter and golang.
 
