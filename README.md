@@ -1,13 +1,13 @@
-`technical minimalism` `music and generative graphics` `blockchain and decentralisation` `nomad lyfe` `low level ui frameworks` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering and cracking` `mentos`
+`technical minimalism` `music and generative graphics` `blockchain` `decentralisation` `remote work` `low level gui design` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering` `mentos, especially grape`
 
 ## 💖
 - Rust
-- Blockchain (polkadot, solidity, etc)
 - NixOS
-- Deno, Elm, Svelte
-- Low-level GUI Programming
-- Generative Graphics
-- Audio (rustdsp)
+- Deno
+- Elm
+- Svelte
+- Solidity
+- Substrate
 
 I also like c, flutter and golang.
 
