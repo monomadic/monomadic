@@ -1,6 +1,5 @@
 `technical minimalism` `music and generative graphics` `blockchain` `decentralisation` `remote work` `low level gui design` `functional programming` `psychedelia` `macroeconomic activism` `reverse engineering` `mentos, especially grape`
 
-## 💖
 - Rust
 - Deno
 - Elm
