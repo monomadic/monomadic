@@ -4,11 +4,11 @@
 - Deno
 - Elm
 - Svelte
-- Solidity
-- Cosmos
 - Solana
+- Cosmos
+- Solidity
 
-I also like c, flutter and golang.
+Over the years I've grown a deep hate for nodejs, javascript and its entire ecosystem. I hope to contribute to its downfall and build something that doesn't make me hate myself so if you are the same get in contact.
 
 I'm mostly on telegram at @deathdisco
 
