@@ -1,5 +1,5 @@
 ## Interests
-`#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
+`#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
 
 I'm mostly on telegram at @deathdisco
 
