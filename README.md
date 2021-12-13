@@ -1,3 +1,5 @@
+![DeathDisco](https://pbs.twimg.com/profile_banners/14555885/1562877950/1500x500)
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-%23000000?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-%23000000?logo=scrutinizerci&style=for-the-badge&logoColor=white)
