@@ -17,7 +17,7 @@ I'm mostly on telegram at [@deathdisco](https://t.me/deathdisco)
 
 - ![Bitcoinhackers.org](https://img.shields.io/mastodon/follow/000141408?domain=https%3A%2F%2Fbitcoinhackers.org&label=bitcoinhackers.org&style=social)
 - ![Youtube](https://img.shields.io/youtube/channel/views/UCthp5QLzF9dIvtq-EaBmkig?style=social)
-- ![Twitter](https://img.shields.io/twitter/follow/deathdisco?label=%40_deathdisco_&style=social)
+- ![Twitter](https://img.shields.io/twitter/follow/_deathdisco_?label=%40deathdisco&style=social)
 
 ## Interests
 `#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
