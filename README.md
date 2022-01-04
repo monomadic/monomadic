@@ -1,4 +1,4 @@
-![DeathDisco](https://pbs.twimg.com/profile_banners/14555885/1562877950/1500x500)
+![monomadic](https://user-images.githubusercontent.com/129359/148116816-f980efca-1e95-45f2-b6d5-8891d38d2c6f.jpg)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-%23000000?style=for-the-badge&logo=webassembly&logoColor=white)
