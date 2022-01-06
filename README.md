@@ -15,6 +15,10 @@
 ![Manjaro](https://img.shields.io/badge/Manjaro-%23000000?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![LineageOS](https://img.shields.io/badge/lineage_os-%23000000?style=for-the-badge&logo=lineageos&logoColor=white)
 
+Please note that since github is slowly turning into a huge turd since microsoft bought it (predictable) I've started committing to [sourcehut](https://sr.ht/~deathdisco/). You should too unless you're a corporate shill. Thank you.
+
+https://sr.ht/~deathdisco/
+
 I'm mostly on telegram at [@deathdisco](https://t.me/deathdisco)
 
 - ![Bitcoinhackers.org](https://img.shields.io/mastodon/follow/000141408?domain=https%3A%2F%2Fbitcoinhackers.org&label=bitcoinhackers.org&style=social)
