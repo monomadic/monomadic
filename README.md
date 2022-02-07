@@ -27,3 +27,6 @@ I'm mostly on telegram at [@deathdisco](https://t.me/deathdisco)
 
 ## Interests
 `#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
+
+## Projects
+[![TimeKnight](https://github.com/monomadic/timeknight/raw/master/gui.png)](https://github.com/monomadic/timeknight)
