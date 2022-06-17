@@ -2,15 +2,8 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-%23000000?style=for-the-badge&logo=webassembly&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-%23000000?logo=scrutinizerci&style=for-the-badge&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23000000.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Elm](https://img.shields.io/badge/Elm-%23000000?style=for-the-badge&logo=elm&logoColor=white)
-![Deno](https://img.shields.io/badge/deno-%23000000?logo=deno&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![NixOS](https://img.shields.io/badge/Nix-%23000000.svg?style=for-the-badge&logo=nixos&logoColor=white)
-![LineageOS](https://img.shields.io/badge/lineage_os-%23000000?style=for-the-badge&logo=lineageos&logoColor=white)
-
-Please note that since github is slowly turning into a huge turd since microsoft bought it (predictable) I've started committing to [sourcehut](https://sr.ht/~deathdisco/). You should too unless you're a corporate shill. Thank you.
 
 https://sr.ht/~deathdisco/
 
