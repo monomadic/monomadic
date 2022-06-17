@@ -6,13 +6,8 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23000000.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Elm](https://img.shields.io/badge/Elm-%23000000?style=for-the-badge&logo=elm&logoColor=white)
 ![Deno](https://img.shields.io/badge/deno-%23000000?logo=deno&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/tailwind_css-%23000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23000000.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-%23000000?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%23000000.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
 ![NixOS](https://img.shields.io/badge/Nix-%23000000.svg?style=for-the-badge&logo=nixos&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-%23000000?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![LineageOS](https://img.shields.io/badge/lineage_os-%23000000?style=for-the-badge&logo=lineageos&logoColor=white)
 
 Please note that since github is slowly turning into a huge turd since microsoft bought it (predictable) I've started committing to [sourcehut](https://sr.ht/~deathdisco/). You should too unless you're a corporate shill. Thank you.
