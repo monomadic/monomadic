@@ -1,4 +1,5 @@
-![monomadic](https://user-images.githubusercontent.com/129359/148116816-f980efca-1e95-45f2-b6d5-8891d38d2c6f.jpg)
+![monomadic-banner](https://user-images.githubusercontent.com/129359/180737422-a9266cfd-f13f-4729-957b-f54830300d7d.png)
+
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-%23000000?style=for-the-badge&logo=webassembly&logoColor=white)
@@ -15,6 +16,3 @@ I'm mostly on telegram at [@deathdisco](https://t.me/deathdisco)
 
 ## Interests
 `#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
-
-## Projects
-[![TimeKnight](https://github.com/monomadic/timeknight/raw/master/gui.png)](https://github.com/monomadic/timeknight)
