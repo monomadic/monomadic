@@ -9,5 +9,8 @@
 - [bitcoinhackers.org/@deathdisco](https://bitcoinhackers.org/@deathdisco)
 - [telegram:@deathdisco](https://t.me/deathdisco)
 
+## Keys
+- age: `age1lgvgx9ed5gjxstg0zfjmml0htqescsgq7z0jpkut5kzlmfl93ehsmvka2c`
+
 ## Interests
 `#technical minimalism` `#cryptography` `#zk-proofs` `#generative-art` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#pixelbuffer-ui` `#functional-programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
