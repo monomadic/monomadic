@@ -3,13 +3,11 @@
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![WASM](https://img.shields.io/badge/WASM-%23000000?style=for-the-badge&logo=webassembly&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![NixOS](https://img.shields.io/badge/Nix-%23000000.svg?style=for-the-badge&logo=nixos&logoColor=white)
 
-- https://sr.ht/~deathdisco/
-- https://bitcoinhackers.org/@deathdisco
-
-I'm mostly on telegram at [@deathdisco](https://t.me/deathdisco)
+- [sr.ht/~deathdisco](https://sr.ht/~deathdisco/)
+- [bitcoinhackers.org/@deathdisco](https://bitcoinhackers.org/@deathdisco)
+- [telegram:@deathdisco](https://t.me/deathdisco)
 
 ## Interests
-`#technical minimalism` `#music and generative graphics` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#low level gui design` `#functional programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
+`#technical minimalism` `#cryptography` `#zk-proofs` `#generative-art` `#blockchain` `#decentralisation` `#occupydefi` `#darkfi` `#remote work` `#pixelbuffer-ui` `#functional-programming` `#psychedelics` `#privacy` `#cypherpunks` `#reverse engineering` `#mentos, especially grape`
