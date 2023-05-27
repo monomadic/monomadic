@@ -1,5 +1,3 @@
-![monomadic-banner](https://user-images.githubusercontent.com/129359/180737422-a9266cfd-f13f-4729-957b-f54830300d7d.png)
-
 ```
 Socials
   - telegram  @deathdisco
