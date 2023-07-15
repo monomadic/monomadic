@@ -1,4 +1,6 @@
 ```
+I am a rust developer, reverse engineer, libertarian and an aspiring cypherpunk - trying to make the world a better place by building and understanding sovereign technology. Be good to people and provide them the tools to be good to each other.
+
 Socials
   - telegram  @deathdisco
 
