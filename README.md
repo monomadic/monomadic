@@ -1,8 +1,9 @@
 ```
-                                                __
-  .--------.-----.-----.-----.--------.---.-.--|  |__.----.
-  |        |  _  |     |  _  |        |  _  |  _  |  |  __|
-  |__|__|__|_____|__|__|_____|__|__|__|___._|_____|__|____|
+                                              __
+.--------.-----.-----.-----.--------.---.-.--|  |__.----.
+|        |  _  |     |  _  |        |  _  |  _  |  |  __|
+|__|__|__|_____|__|__|_____|__|__|__|___._|_____|__|____|
+
 
 I am a rust developer, reverse engineer, libertarian and an aspiring cypherpunk -
 trying to make the world a better place by building and understanding sovereign
