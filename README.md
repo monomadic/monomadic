@@ -9,8 +9,6 @@ I am a rust developer, reverse engineer, libertarian and an aspiring cypherpunk 
 trying to make the world a better place by building and understanding sovereign
 technology. Be good to people and provide them the tools to be good to each other.
 
-Founded the [Open Sound Initiative](https://github.com/open-sound).
-
 Socials
   - telegram  @deathdisco
 
@@ -19,3 +17,5 @@ PubKeys
   - age       age1lgvgx9ed5gjxstg0zfjmml0htqescsgq7z0jpkut5kzlmfl93ehsmvka2c
   - session   051172c60e16d73351899ece7be523e1d3e65ece640632b7ebc98ef49c77fec036
 ```
+
+Founded the [Open Sound Initiative](https://github.com/open-sound).
